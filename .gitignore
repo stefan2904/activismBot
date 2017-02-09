@@ -8,3 +8,6 @@ __pycache__/
 
 # PyCharm files
 .idea/
+
+# Django files
+migrations
